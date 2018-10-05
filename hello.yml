@@ -1,0 +1,8 @@
+---
+- name: Hello!
+  hosts: all
+
+  tasks:
+
+   - name: Polestar!
+     shell: echo "Polestar automation is automation program."
