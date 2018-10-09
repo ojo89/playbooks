@@ -1,4 +1,0 @@
-String x = Polestar;
-String y = Automation;
-
-System.out.print(x, y);
