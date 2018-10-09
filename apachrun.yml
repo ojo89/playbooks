@@ -1,0 +1,7 @@
+host : localhost
+
+tasks:
+  - name: make sure apache is running
+    service:
+      name: httpd
+      state: started
